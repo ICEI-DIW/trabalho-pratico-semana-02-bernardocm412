@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Bernardo Carvalho Mascarenhas
+- Matricula: 1319990
 
-## Print da tela da página criad
+## Print da tela da página criada
+![Print da tela criada](public\imagens\print.png)
