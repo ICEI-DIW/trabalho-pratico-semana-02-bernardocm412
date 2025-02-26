@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: Bernardo Carvalho Mascarenhas
+- Nome: Bernardo Carvalho Mascarenhas 
 - Matricula: 1319990
 
 ## Print da tela da página criada
