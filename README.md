@@ -7,4 +7,4 @@
 - Matricula: 1319990
 
 ## Print da tela da página criada
-![Print da tela criada](public\imagens\print.png)
+![Print da tela criada](public\print.png)
